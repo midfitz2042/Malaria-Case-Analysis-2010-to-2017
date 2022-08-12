@@ -25,7 +25,32 @@ Null values in the numeric fields were replaced with "0".
 
 Two columns (Number of Cases, Number of Deaths) that showed the minimum, median and maximum estimated cases in each cell were deleted since they were not going to be used during the visualization process. This was done to optimize performace during visualization.
 
+Column names were replaced with more relateable names
+
+The dataset was checked for duplicate values
+
+The dataset was then copied into another another excel workbook. This was done to reduce the size of the dataset that would be imported into Power BI since 3 tables were merged. Only the merged dataset was copied.
+
+At the end of cleaning, there were 12 columns and 856 rows. The dataset was then imported into Power BI for visualization.
+
 # Attributes of the Data
+The following are what each field means:
+- Country: The country reporting the cases,death, and incidence
+- Year: The Year the cases,death, and incidence were reported
+- Estimated_cases_median: Median estimate of the number of cases
+- Estimated_cases_min: Minimum estimate of the number of cases
+- Estimated_cases_max: Maximum estimate of the number of cases
+- Estimated_deaths_median: Median estimate of the number of deaths
+- Estimated_deaths_min: Minimum estimate of the number of deaths
+- Estimated_deaths_max: Maximum estimate of the number of deaths
+- W.H.O Region: The World Health Organization Region the Country is located
+- No. of cases_incidence: The number of cases per 1000 population at risk
+- Reported_No_of_cases: The number of cases reported to the World Health Organization
+- Reported_No_of_deaths: The number of cases reported to the World Health Organization
 # Visualization
+All Visualizations for this project were done using Microsoft Power BI
+
+View dashboard here <br/>
+Interact with report here
 # Analysis
 # Recommendation
