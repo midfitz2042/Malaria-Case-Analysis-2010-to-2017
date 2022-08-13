@@ -1,4 +1,4 @@
-# Malaria-Case-Report-2010-to-2017
+# Malaria-Case-Ananlysis-2010-to-2017
 
 ![Home page malaria_1](https://user-images.githubusercontent.com/107150730/184448588-29e7b414-7d97-4299-a4e3-7084a40440b7.jpg)
 
