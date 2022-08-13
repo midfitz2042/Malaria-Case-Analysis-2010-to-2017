@@ -69,8 +69,10 @@ The following are what each field means:
 # Visualization
 All Visualizations for this project were done using **Microsoft Power BI**
 
-View dashboard here <br/>
-Interact with report here
+[View dashboard here](https://github.com/midfitz2042/Malaria-Report-2010-to-2017/blob/main/Dashboard_malaria_cases_2010_2017.pdf) <br/>
+[Interact with the report here](https://app.powerbi.com/links/M-z-XHJcwI?ctid=a7c50249-c148-4b70-9b9c-6c4b157ec4f5&pbi_source=linkShare)
+
+![Dashboard_malaria_cases_2010_2017_jpeg](https://user-images.githubusercontent.com/107150730/184480143-0c143e05-1b78-4bae-b473-3f156d2d3940.jpg)
 
 Upon importing the dataset into Power BI, the following measures were created using **Data Analysis Expressions**(DAX); This was done to optimize performance of the visuals:
 - Average Incidence
@@ -149,4 +151,4 @@ Based on the findings of this analysis:
 - The Ministry of Health should ensure there is increased surveillance and sensitization of the public about malaria.
 - There should be effort by the government of various countries to stabilize socio-economic activities and increase budget for the health sector.
 
-Interact with the report here
+[Interact with the report here](https://app.powerbi.com/links/M-z-XHJcwI?ctid=a7c50249-c148-4b70-9b9c-6c4b157ec4f5&pbi_source=linkShare)
